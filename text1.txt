@@ -1,0 +1,1 @@
+This is text in text1.txt file and its for testing
